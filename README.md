@@ -1,8 +1,12 @@
 # Website
 
+This website is a personal blog of me learning Javascript as a designer and internet roamer who collage pieces.
+
+The site is live at [https://sketches-site.vercel.app/](https://sketches-site.vercel.app/)
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-Related docs could be found [here](https://docusaurus.io/docs).
+Related FAQ could be found [here at Docusaurus Docs](https://docusaurus.io/docs).
 
 ### Installation
 
@@ -44,7 +48,9 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 ### Access
 
-Modify meta data in `docusaurus.config.js` file.
-Enter `sidebar.js` to add docs to side navigation menu.
-Enter `/docs` to find and add new docs to Documentation.
-Enter `/blog` to find and add new blog posts to Blog.
+For my personal use, here's a quick edit guide:
+
+- Modify meta data in `docusaurus.config.js` file.
+- Enter `sidebar.js` to add docs to side navigation menu.
+- Enter `/docs` to find and add new docs to Documentation.
+- Enter `/blog` to find and add new blog posts to Blog.
