@@ -44,6 +44,7 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 ### Access
 
+Modify meta data in `docusaurus.config.js` file.
 Enter `sidebar.js` to add docs to side navigation menu.
 Enter `/docs` to find and add new docs to Documentation.
 Enter `/blog` to find and add new blog posts to Blog.
