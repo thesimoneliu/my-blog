@@ -1,14 +1,8 @@
 ---
-
 slug: show-your-work-book-review
 title: Book Review, Show Your Work
-authors:
-name: thesimoneliu
-title: Spam Warning
-url: https://thesimoneliu.com
-image_url: https://github.com/wgao19.png
+authors: [thesimoneliu]
 tags: [book review]
-
 ---
 
 # Book Review: Show Your Work
