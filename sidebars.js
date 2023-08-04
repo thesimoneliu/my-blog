@@ -20,17 +20,13 @@ const sidebars = {
 
   tutorialSidebar: [
     'intro',
-    {
-      type: 'category',
-      label: 'React Mini Projects',
-      items: ['react-mini-projects/todolist-app', 'react-mini-projects/postit-app'],
-    },
-    {
-      type: 'category',
-      label: 'CSS Exercises',
-      items: ['css-exercises/css'],
-    },
-    'help docs',
+    // {
+    //   type: 'category',
+    //   label: 'Javascript',
+    //   items: ['js-2-pillars'],
+    // },
+    'js-2-pillars',
+    // 'help',
   ],
 }
 

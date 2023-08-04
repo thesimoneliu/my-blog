@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'JSBlog',
-  tagline: 'by thesimoneliu',
+  title: 'My personal learning journal of Javascript',
+  tagline: 'Last updated 8/4/2023',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'sketches-site.vercel.app',
+  url: 'https://sketches-eta.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -67,15 +67,15 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          { to: '/blog', label: 'Blog', position: 'left' },
-        ],
+        // items: [
+        //   {
+        //     type: 'doc',
+        //     docId: 'intro',
+        //     position: 'right',
+        //     label: 'Documentation',
+        //   },
+        //   { to: '/blog', label: 'Blog', position: 'right' },
+        // ],
       },
       footer: {
         style: 'dark',
@@ -84,11 +84,11 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Blog',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
               {
-                label: 'Sketch',
+                label: 'Blog',
                 to: '/blog',
               },
             ],
