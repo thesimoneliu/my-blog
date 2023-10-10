@@ -2,7 +2,7 @@
 
 This website is a personal blog of me learning Javascript as a designer and internet roamer who collage pieces.
 
-The site is live at [https://sketches-site.vercel.app/](https://sketches-site.vercel.app/)
+The site is live at [https://thesimoneliu-blog.vercel.app](https://thesimoneliu-blog.vercel.app/)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
