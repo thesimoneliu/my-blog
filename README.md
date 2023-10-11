@@ -54,3 +54,7 @@ For my personal use, here's a quick edit guide:
 - Enter `sidebar.js` to add docs to side navigation menu.
 - Enter `/docs` to find and add new docs to Documentation.
 - Enter `/blog` to find and add new blog posts to Blog.
+
+### RUN LOCALLY
+
+Use `npm run serve`
